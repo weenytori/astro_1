@@ -30,5 +30,4 @@ vr.pop(-1)
 plt.scatter(mjd, vr, marker = 'o', color = 'green')
 plt.xlabel('MJD')
 plt.ylabel('Vr')
-
 plt.show()
